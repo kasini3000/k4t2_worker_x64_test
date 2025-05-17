@@ -1,0 +1,1 @@
+﻿摘除dns，网关后，执行/fefore_stop/失败。

@@ -1,0 +1,4 @@
+﻿#
+https://gitee.com/chuanjiao10/kasini3000
+custom license
+https://gitee.com/chuanjiao10/kasini3000/blob/master/licenses/LICENSE.TXT
