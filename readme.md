@@ -41,6 +41,12 @@ systemctl daemon-reload
 systemctl enable k4t2workerd
 ```
 
+#### 试用版教程：  
+
+https://kasini3000.github.io/k4t2/k4t2%E8%AF%95%E7%94%A8%E7%89%88%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B
+
+
+
 ------
 
 
