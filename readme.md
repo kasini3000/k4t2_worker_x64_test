@@ -45,7 +45,17 @@ systemctl enable k4t2workerd
 
 https://kasini3000.github.io/k4t2/k4t2%E8%AF%95%E7%94%A8%E7%89%88%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B
 
+#### k4t v2 元数据目录：   
 
+https://github.com/kasini3000/k4t2_worker_x64_test/blob/main/k4t2w_11111/apps/abc/
+
+apps 是：元数据（配置文件）总目录。
+
+abc 是：应用名。
+
+k4t2_app_11111.xlsx 是： 主配置文件。
+
+未来将提供此工具，用于在终端内显示excel内容： excel2txt.ps1
 
 ------
 
@@ -75,5 +85,5 @@ https://kasini3000.github.io/k4t2/k4t2%E8%AF%95%E7%94%A8%E7%89%88%E5%AE%89%E8%A3
 
 ## 相关网址
 
-# 手册：https://gitee.com/chuanjiao10/k4t2/docs
+# 手册：https://gitee.com/chuanjiao10/k4t2/tree/master/docs
 
