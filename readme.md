@@ -51,7 +51,7 @@ https://github.com/kasini3000/k4t2_worker_x64_test/blob/main/k4t2w_11111/apps/ab
 
 apps 是：元数据（配置文件）总目录。
 
-abc 是：应用名。
+abc 是：应用名。每个应用占一个目录名。目录名可以是中文（或其他unicode）
 
 k4t2_app_11111.xlsx 是： 主配置文件。
 
