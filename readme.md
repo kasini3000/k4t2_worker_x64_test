@@ -21,6 +21,14 @@
 
 * linux 版 k4t v2 worker 相关工具 、 脚本。
 
+# 开始日期
+
+2025-06月左右
+
+# 更新日志
+
+https://gitee.com/chuanjiao10/k4t2/blob/master/docs/CHANGELOG.md
+
 ------
 
 # 使用方法：
